@@ -1,2 +1,3 @@
 # learn-typescript
- Learn TypeScript Notes
+
+Learn TypeScript Notes
